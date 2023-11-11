@@ -57,4 +57,3 @@ The `~/.bashrc` file is a script that Bash runs whenever it is started interacti
    This creates an alias `ll` for `ls -l`.
 
 - **Editing `.bashrc`**: You can always go back to `.bashrc` to edit or add more aliases whenever needed.
-- 
