@@ -1,4 +1,4 @@
-# Use "alias" command to list all aliases
+# ************  Aliases  **************
 
 # Directory
 
